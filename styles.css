@@ -24,3 +24,21 @@ img {
     height: auto;
     margin: 20px 0;
 }
+.navbar {
+    text-shadow: 0 0 5px red;
+    background-color: black;
+    padding: 15px 0;
+    border-bottom: 3px solid red;
+}
+
+.navbar a {
+    color: yellow;
+    text-decoration: none;
+    margin: 0 20px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 12px;
+}
+
+.navbar a:hover {
+    color: red;
+}
